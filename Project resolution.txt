@@ -1,0 +1,13 @@
+Import Libraries
+
+Import and process the databases
+
+merge the sales file with the store and create a file for each store
+
+save backup to folders
+
+calculate the indicators
+
+Send the OnePage
+
+Send email to management
